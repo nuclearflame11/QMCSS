@@ -1280,7 +1280,7 @@ textarea,
   left: 50%;
   text-align: left;
   opacity: 0;
-  transform: translateX(50%) rotateX(270deg);
+  transform: translateX(50%) rotateX(135deg);
 }
 .container-3baos1:hover:before {
   margin-right: 1px;
