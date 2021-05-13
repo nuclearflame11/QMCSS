@@ -275,7 +275,7 @@ textarea,
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
   content: "sus";
   color: rgba(255, 255, 255, 0.3);
-  font-family: var(--code-font);
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
   font-size: 10px;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg {
@@ -1280,7 +1280,7 @@ textarea,
   left: 50%;
   text-align: left;
   opacity: 0;
-  transform: translateX(50%) rotateX(90deg);
+  transform: translateX(50%) rotateX(270deg);
 }
 .container-3baos1:hover:before {
   margin-right: 1px;
