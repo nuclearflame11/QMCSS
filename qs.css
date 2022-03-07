@@ -3,16 +3,18 @@
  * @author TheQuantumPikachu
  * @version 1.0
  * @description TheQuantumPikachu's Discord theme.
- * @source https://i.kym-cdn.com/photos/images/newsfeed/002/303/780/4f0.jpg
- * @website https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://i.kym-cdn.com/photos/images/newsfeed/002/303/780/4f0.jpg
  * @invite obama
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@100;300;400;500;700&display=swap');
-@import url('https://nuclearflame11.github.io/QMCSS/main.css');
+@import url('https://clearvision.gitlab.io/v6/main.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --main-color: #129917;
@@ -102,7 +104,3 @@
   --rs-streaming-color: #643da7;
   --rs-phone-visible: block;
 }
-
-/* Any custom CSS below here */
-
-
