@@ -1,0 +1,108 @@
+/**
+ * @name Quantum Snake
+ * @author TheQuantumPikachu
+ * @version 1.0
+ * @description TheQuantumPikachu's Discord theme.
+ * @source https://i.kym-cdn.com/photos/images/newsfeed/002/303/780/4f0.jpg
+ * @website https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ * @invite obama
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@100;300;400;500;700&display=swap');
+@import url('https://nuclearflame11.github.io/QMCSS/main.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+
+:root {
+  --main-color: #129917;
+  --hover-color: #026907;
+  --success-color: #23C984;
+  --danger-color: #982929;
+  --url-color: #0027FF;
+  --background-image: url('https://i.imgur.com/PZpmZwE.jpg');
+  --background-shading: 65%;
+  --background-position: center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 100%;
+  --background-contrast: 100%;
+  --background-saturation: 100%;
+  --background-grayscale: 0%;
+  --background-invert: 100%;
+  --background-blur: 0px;
+  --background-overlay: rgba(0,0,0,0.6);
+  --user-popout-image: url('https://i.imgur.com/PZpmZwE.jpg');
+  --user-popout-position: center;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 85%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 100%;
+  --user-popout-blur: 2px;
+  --user-modal-image: url('https://i.imgur.com/PZpmZwE.jpg');
+  --user-modal-position: center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 35%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 100%;
+  --user-modal-blur: 0px;
+  --home-icon: url('https://cdn.discordapp.com/attachments/699665978790772806/950183334946963456/8E8B5275-A5F3-4CDA-9ACB-0F8C0D082C8F.jpg');
+  --home-position: center;
+  --home-size: 52px;
+  --channel-unread: #00FF24;
+  --channel-color: rgb(0,255,81,0.66);
+  --muted-color: rgb(255,0,0,0.44);
+  --online-color: #17D17C;
+  --idle-color: #E9BC00;
+  --dnd-color: #990000;
+  --streaming-color: #5200F5;
+  --offline-color: #808080;
+  --main-font: Sarabun;
+  --code-font: Consolas;
+  --channels-width: 240px;
+  --members-width: 200px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+  --HSL-server-icon-size: 35px;
+  --HSL-server-spacing: 15px;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 5px;
+  --rs-large-width: 5px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
