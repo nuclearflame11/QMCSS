@@ -1,0 +1,63 @@
+/**
+ * @name jibli_v2
+ * @author pangolin#3740
+ * @version 2.0.0
+ * @description Jhanvi's Discord Theme
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite obama
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Sans+MS:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/lWIhNiZ.jpg');
+  --background-image-blur: 5px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: url('https://i.imgur.com/nBP00Sw.jpg');
+  --popout-modal-blur: 30px;
+  --popout-modal-size: contain;
+  --popout-modal-position: center;
+  --home-button-image: url('https://i.imgur.com/urtuNuX.gif');
+  --home-button-size: contain;
+  --home-button-position: center;
+  --serverlist-brightness: 0.54;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.8;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.78;
+  --gradient-primary: 139,13,235;
+  --gradient-secondary: 24,20,61;
+  --link-colour: #CB1406;
+  --scrollbar-colour: rgb(253,189,0,1);
+  --gradient-direction: 259deg;
+  --tint-colour: 80,16,193;
+  --tint-brightness: 0.14;
+  --font: Whitney;
+  --window-padding: 0px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
