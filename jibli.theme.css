@@ -1,0 +1,50 @@
+/**
+ * @name jibli
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Sans+MS:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/cfNZo4W.png');
+  --background-image-blur: 3px;
+  --background-image-size: auto;
+  --background-image-position: center;
+  --popout-modal-image: url('https://i.imgur.com/nBP00Sw.jpg');
+  --popout-modal-blur: 30px;
+  --popout-modal-size: contain;
+  --popout-modal-position: center;
+  --home-button-image: url('https://i.imgur.com/urtuNuX.gif');
+  --home-button-size: contain;
+  --home-button-position: center;
+  --serverlist-brightness: 0.54;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.8;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.78;
+  --gradient-primary: 140,20,231;
+  --gradient-secondary: 41,45,115;
+  --link-colour: #8DB344;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 320deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: Whitney;
+  --window-padding: 20px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
